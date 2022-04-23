@@ -4,7 +4,7 @@ Hi 👋 My name is Pohla Saromo
 Front End Developer
 -------------------
 
-Graduating in May 2022 from George Mason University. BS in Information Technology with concentration in Web Application Development. I have experiences with various programming languages, but I found my passion in Front End Development when I learned about building a website in one of my courses. From then, my adventures started. You can find some of my projects in my github repositories. If you would like to learn more about me, don't hesitate to contact me!
+Graduating in May 2022 from George Mason University. BS in Information Technology with concentration in Web Application Development. I have experiences with various programming languages, but I found my passion in Front End Development when I started to learn about web designing from one of my courses. From then, my adventures started. You can find some of my projects in my github repositories. If you would like to learn more about me, don't hesitate to contact me!
 
 * 🌍  I'm based in Washington, D.C.
 * ✉️  You can contact me at [saromopohla@gmail.com](mailto:saromopohla@gmail.com)
