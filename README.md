@@ -8,7 +8,7 @@ Graduating in May 2022 from George Mason University. BS in Information Technolog
 
 * 🌍  I'm based in Washington, D.C.
 * ✉️  You can contact me at [saromopohla@gmail.com](mailto:saromopohla@gmail.com)
-* 🧠  I'm learning React.js and Next.js at the moment.
+* 🧠  I'm learning React.js and Next.js and React Native at the moment.
 
 ### Skills
 
